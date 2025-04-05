@@ -14,6 +14,7 @@ Included toolboxes:
 Notes:
  - This is a "modular framework", allowing you to select a suitable dimensionality reduction algorithm and conditional distribution model, with appropriately tuned parameters. The accuracy of the surrogate method depends on the effectiveness of the chosen DR and conditional modeling approaches.
 This version uses simple choices, such as PCA and KDE.
+ - Some functions in the Netlab toolbox have been modified to support the conditional distribution model used in DRSM.
  - A multi-output version (addressing the remarks in Section 6.5 of the paper) is also included.
  - The scripts implement a stochastic surrogate model for predicting responses of linear elastic bar and 3D space truss structures.
 

@@ -19,5 +19,5 @@ This version uses simple choices, such as PCA and KDE.
  - The scripts implement a stochastic surrogate model for predicting responses of linear elastic bar and 3D space truss structures.
 
 How to Run:
-For single-output example: main_DRSM_singleY.m
-For multi-output example: main_DRSM_multiY.m
+ - For single-output example: main_DRSM_singleY.m
+ - For multi-output example: main_DRSM_multiY.m
